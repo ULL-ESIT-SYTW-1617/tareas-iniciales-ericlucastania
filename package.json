@@ -31,12 +31,9 @@
   "homepage": "https://github.com/enten/gitbook-boilerplate#readme",
   "devDependencies": {
     "async": "^1.4.0",
-    "browser-sync": "^2.16.0",
     "fs-extra": "^0.22.1",
-    "gh-pages": "^0.3.1",
+    "gh-pages": "^0.3.1np",
     "gitbook": "^2.1.0",
-    "gitbook-cli": "^0.3.4",
-    "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
     "gulp-notify": "^2.2.0",
     "gulp-shell": "^0.5.2"
