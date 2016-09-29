@@ -6,13 +6,13 @@
 
 > ![](icons/gitbook.PNG)
 
-> ### ¿Qué es?  
+> ### ¿Qué esososososo?  
 
 
 > Gitbook es una herramienta que nos permite crear libros y
 documentos utilizando sintaxis Markdown o AsciiDoc. Estos
 libros una vez creados, pueden ser visualizados en web, o
-pueden ser exportados como e-book o pdf. {%youtube%} https://www.youtube.com/watch?v=9bZkp7q19f0 {%endyoutube%}
+pueden ser exportados como e-book o pdf. {%youtube%} https://www.youtube.com/watch?v=fvirwCe66IA {%endyoutube%}
 
 > Tiene una plataforma web donde una vez identificados se puede publicar libros de forma gratuita.
 
@@ -284,7 +284,6 @@ flexible que proporciona un conjunto sólido de características para las aplica
 {%o3%} Un framework para Node con la particularidad de permitir crear documentación a partir de un README y un SUMMARY
 {%o4%} Un lenguaje de programación basado en javascript
 {%endmcq%}
-
 
 
 

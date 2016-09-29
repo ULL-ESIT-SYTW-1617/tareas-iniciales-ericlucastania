@@ -1,6 +1,6 @@
 ## Pon a prueba tus conocimientos
 ### Recuerda!,el saber no ocupa lugar
-{%mcq ans="o1"%}
+{%mcq ans="o2"%}
 {%title%} 1.¿Qué es Gitbook?
 {%o1%} Una lenguaje de programación
 {%o2%} Un herramienta que nos permite documentar
@@ -40,7 +40,7 @@
 
 
 
-{%mcq ans="o1"%}
+{%mcq ans="o4"%}
 {%title%} 5.¿Cuál es el sitio idóneo para encontrar información relacionada con los modulos requeridos por el proyecto?
 {%o1%} En el Gulp
 {%o2%} En el README
@@ -50,7 +50,7 @@
 
 
 
-{%mcq ans="o1"%}
+{%mcq ans="o3"%}
 {%title%} 6.¿Qué son las gh-pages?
 {%o1%} Un conjunto de aplicaciones web para depurar tu código javascript
 {%o2%} Una herramienta para añadir estilo a tu página web

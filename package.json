@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-ericlucastania",
-    "wiki": "https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-ericlucastania.wiki.git"
+    "url": "git@github.com:ULL-ESIT-SYTW-1617/tareas-iniciales-ericlucastania.git",
+    "wiki": "git@github.com:ULL-ESIT-SYTW-1617/tareas-iniciales-ericlucastania.wiki.git"
   },
   "keywords": [
     "gitbook",
