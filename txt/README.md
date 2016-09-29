@@ -8,7 +8,6 @@
 
 > ### ¿Qué es?  
 
-
 > Gitbook es una herramienta que nos permite crear libros y
 documentos utilizando sintaxis Markdown o AsciiDoc. Estos
 libros una vez creados, pueden ser visualizados en web, o
