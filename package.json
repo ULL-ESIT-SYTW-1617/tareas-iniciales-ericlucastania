@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enten/gitbook-boilerplate.git",
-    "wiki": "https://github.com/enten/gitbook-boilerplate.wiki.git"
+    "url": "https://github.com/tania77/tareas-iniciales-ericlucastania.git",
+    "wiki": "https://github.com/tania77/tareas-iniciales-ericlucastania.wiki.git"
   },
   "keywords": [
     "gitbook",
@@ -31,9 +31,20 @@
   "homepage": "https://github.com/enten/gitbook-boilerplate#readme",
   "devDependencies": {
     "async": "^1.4.0",
+    "browser-sync": "^2.16.0",
     "fs-extra": "^0.22.1",
     "gh-pages": "^0.3.1",
+    "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
-    "gitbook": "^2.1.0"
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-shell": "^0.5.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "gitbook-plugin-tocstyles": "0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-run": "^1.7.1"
   }
 }
