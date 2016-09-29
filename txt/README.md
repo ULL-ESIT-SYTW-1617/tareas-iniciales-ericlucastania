@@ -6,7 +6,7 @@
 
 > ![](icons/gitbook.PNG)
 
-> ### ¿Qué esososososo?  
+> ### ¿Qué es?  
 
 
 > Gitbook es una herramienta que nos permite crear libros y
