@@ -1,5 +1,5 @@
 
-![Gitbook](/icons/gitbook.PNG)
+![Gitbook](txt/icons/gitbook.PNG)
 # Tareas-Iniciales-EricLucasTania
 
 ![gif](/gif/gif.gif)
@@ -11,7 +11,7 @@ El objetivo de esta práctica es familiarizarnos con el entorno de **Gitbook** a
 opciones que ofrece esta plataforma. Para ello hemos partido de un repositorio de ayuda, que hemos moldeado a nuestro
 gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
     
- ![](/images/p2.png)
+ ![](txt/images/p2.png)
 
 
 ## Datos de partida
