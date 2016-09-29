@@ -78,7 +78,7 @@
 {%endmcq%}
 
 
-{%mcq ans="o1"%}
+{%mcq ans="o4"%}
 {%title%} 9.El orden correcto para utilizar gh-pages es...
 {%o1%} Configurar el repositorio, hacer commit, crear un archivo index, escribir el contenido del archivo
 {%o2%} Crear un archivo index, hacer commit, escribir el contenido del archivo, configurar el repositorio

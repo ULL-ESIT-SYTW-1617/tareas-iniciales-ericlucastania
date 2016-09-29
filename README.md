@@ -1,27 +1,26 @@
-# GitBook Boilerplate
 
-# Installation
+![Gitbook](/icons/gitbook.PNG)
+# Tareas-Iniciales-EricLucasTania
 
-```shell
-cd ~/code
+![gif](/gif/gif.gif)
 
-git clone https://github.com/enten/gitbook-boilerplate.git awesome-project
+  
+## Descripción de la práctica.
 
-cd awesome-project
+El objetivo de esta práctica es familiarizarnos con el entorno de **Gitbook** así como los plugins, y las distintas 
+opciones que ofrece esta plataforma. Para ello hemos partido de un repositorio de ayuda, que hemos moldeado a nuestro
+gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
+    
+ ![](/images/p2.png)
 
-rm -fr .git
 
-vi package.json
-# edit repository.url and repository.wiki
+## Datos de partida
 
-git remote add origin <url>
+* [Repositorio Inicial](https://github.com/enten/gitbook-boilerplate) 
+* [Descripción de la práctica.](https://crguezl.github.io/ull-esit-1617/practicas/practicagitbook.html)
 
-npm run build
-# or
-# npm run generate-gitbook && npm run generate-wiki
 
-npm run deploy
-# or
-# npm run deploy-gitbook && npm run deploy-wiki
-```
-__Important__: Wiki must be created on Github
+## Componentes del grupo de trabajo
+* [Eric Ramos](https://github.com/alu0100786330)
+* [Lucas Ruiz](https://github.com/alu0100785265)
+* [Tania González](https://github.com/tania77)

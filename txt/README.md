@@ -189,7 +189,7 @@ flexible que proporciona un conjunto sólido de características para las aplica
 
 ## Pon a prueba tus conocimientos
 ### Recuerda!,el saber no ocupa lugar
-{%mcq ans="o1"%}
+{%mcq ans="o2"%}
 {%title%} 1.¿Qué es Gitbook?
 {%o1%} Una lenguaje de programación
 {%o2%} Un herramienta que nos permite documentar
@@ -229,7 +229,7 @@ flexible que proporciona un conjunto sólido de características para las aplica
 
 
 
-{%mcq ans="o1"%}
+{%mcq ans="o4"%}
 {%title%} 5.¿Cuál es el sitio idóneo para encontrar información relacionada con los modulos requeridos por el proyecto?
 {%o1%} En el Gulp
 {%o2%} En el README
@@ -267,7 +267,7 @@ flexible que proporciona un conjunto sólido de características para las aplica
 {%endmcq%}
 
 
-{%mcq ans="o1"%}
+{%mcq ans="o4"%}
 {%title%} 9.El orden correcto para utilizar gh-pages es...
 {%o1%} Configurar el repositorio, hacer commit, crear un archivo index, escribir el contenido del archivo
 {%o2%} Crear un archivo index, hacer commit, escribir el contenido del archivo, configurar el repositorio
