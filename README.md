@@ -10,15 +10,18 @@
 El objetivo de esta práctica es familiarizarnos con el entorno de **Gitbook** así como los plugins, y las distintas 
 opciones que ofrece esta plataforma. Para ello hemos partido de un repositorio de ayuda, que hemos moldeado a nuestro
 gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
-    
- ![](txt/images/p2.PNG)
- 
+
 ## Enlaces interesantes 
  
-[**Gitbook gh-pages**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
+[Gitbook gh-pages](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
 
 
-[**Gitbook página oficial**](https://www.gitbook.com/book/alu0100786330/tareasini/details).
+[Gitbook página oficial](https://www.gitbook.com/book/alu0100786330/tareasini/details).
+
+
+
+ ![](txt/images/p2.PNG)
+
 
 
 
