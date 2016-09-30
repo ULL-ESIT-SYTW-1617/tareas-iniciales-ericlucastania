@@ -12,6 +12,14 @@ opciones que ofrece esta plataforma. Para ello hemos partido de un repositorio d
 gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
     
  ![](txt/images/p2.PNG)
+ 
+## Enlaces interesantes 
+ 
+[**Gitbook gh-pages**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
+
+
+[**Gitbook página oficial**](https://www.gitbook.com/book/alu0100786330/tareasini/details).
+
 
 
 ## Datos de partida
