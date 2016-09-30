@@ -20,11 +20,6 @@ gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYT
 
 
 
- ![](txt/images/p2.PNG)
-
-
-
-
 ## Datos de partida
 
 * [Repositorio Inicial](https://github.com/enten/gitbook-boilerplate) 
@@ -35,3 +30,9 @@ gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYT
 * [Eric Ramos](https://github.com/alu0100786330)
 * [Lucas Ruiz](https://github.com/alu0100785265)
 * [Tania González](https://github.com/tania77)
+
+
+
+
+
+ ![](txt/images/p2.PNG)
