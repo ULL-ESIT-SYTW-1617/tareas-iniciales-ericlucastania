@@ -32,7 +32,6 @@ gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYT
 * [Tania González](https://github.com/tania77)
 
 
-
-
+## Así se ve
 
  ![](txt/images/p2.PNG)
