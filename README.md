@@ -13,7 +13,7 @@ gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYT
 
 ## Enlaces interesantes 
  
-[Gitbook gh-pages](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
+[Gitbook gh-pages](https://ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
 
 
 [Gitbook página oficial](https://www.gitbook.com/book/alu0100786330/tareasini/details).
