@@ -9,7 +9,7 @@
 
 El objetivo de esta práctica es familiarizarnos con el entorno de **Gitbook** así como los plugins, y las distintas 
 opciones que ofrece esta plataforma. Para ello hemos partido de un repositorio de ayuda, que hemos moldeado a nuestro
-gusto dándonos como resultado el siguiente [**documento gitbook**](ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
+gusto dándonos como resultado el siguiente [**documento gitbook**](https://ULL-ESIT-SYTW-1617.github.io/tareas-iniciales-ericlucastania).
 
 ## Enlaces interesantes 
  
