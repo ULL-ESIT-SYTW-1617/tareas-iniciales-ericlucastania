@@ -4,6 +4,7 @@
 
 ![gif](/gif/gif.GIF)
 
+
   
 ## Descripción de la práctica.
 
